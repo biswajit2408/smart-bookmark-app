@@ -2,8 +2,8 @@
 
 A full-stack bookmark manager built as a take-home assessment for ABSTRABIT. Users can save, organize, and manage bookmarks with real-time sync across tabs — all behind Google authentication.
 
-**Live URL:** [Add your Vercel URL here]  
-**GitHub:** [Add your GitHub repo URL here]
+- **Live URL:** https://smartbookmark-app-beta.vercel.app/
+- **GitHub:** https://github.com/biswajit2408/smart-bookmark-app
 
 ---
 
